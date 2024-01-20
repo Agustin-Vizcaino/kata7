@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b311057-1c10-4784-ab32-0f0a19cda5c8" name="Changes" comment="Implemented tests">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="2b311057-1c10-4784-ab32-0f0a19cda5c8" name="Changes" comment="Added Name code to pass tests 1, 2 and 3">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Name.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705756495044</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Name code to pass tests 1, 2 and 3">
+      <option name="closed" value="true" />
+      <created>1705757306656</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705757306656</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +107,7 @@
     <MESSAGE value="Created tester class, declarations for testing methods, added test method" />
     <MESSAGE value="First implementation of numericValue method" />
     <MESSAGE value="Implemented tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented tests" />
+    <MESSAGE value="Added Name code to pass tests 1, 2 and 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Name code to pass tests 1, 2 and 3" />
   </component>
 </project>
