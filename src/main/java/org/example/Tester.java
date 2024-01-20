@@ -15,7 +15,7 @@ public class Tester {
     }
 
     private static int test01_numbers() {
-
+        Main.
     }
 
     private static int test02_nothing() {
