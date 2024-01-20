@@ -9,7 +9,7 @@ public class Tester {
         score -= test04_bea();
         score -= test05_melissa();
         score -= test06_zzzzzzz();
-        System.out.println("Failure rate: " + score/6 + "%");
+        System.out.println("Failure rate: " + score*100/6 + "%");
         if (score == 0) System.out.println("Congratulations!"); else System.out.println("Please try again");
         return score;
     }
