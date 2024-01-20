@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b311057-1c10-4784-ab32-0f0a19cda5c8" name="Changes" comment="First implementation of numericValue method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Name.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +76,17 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit for kata 6" />
