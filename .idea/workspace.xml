@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b311057-1c10-4784-ab32-0f0a19cda5c8" name="Changes" comment="Initial commit for kata 6">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2b311057-1c10-4784-ab32-0f0a19cda5c8" name="Changes" comment="Created tester class, declarations for testing methods, added test method">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Name.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +56,20 @@
       <option name="project" value="LOCAL" />
       <updated>1705752628749</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created tester class, declarations for testing methods, added test method">
+      <option name="closed" value="true" />
+      <created>1705753380415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705753380415</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit for kata 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for kata 6" />
+    <MESSAGE value="Created tester class, declarations for testing methods, added test method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created tester class, declarations for testing methods, added test method" />
   </component>
 </project>
